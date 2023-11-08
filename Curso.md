@@ -6,3 +6,4 @@
 ## Título secundário 
 
 * Uso do comando restore
+* Uso do comando pull
